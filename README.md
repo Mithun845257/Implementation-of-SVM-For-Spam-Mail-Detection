@@ -95,23 +95,8 @@ print(f"Prediction: {'Spam' if prediction[0]==1 else 'Ham'}")
 ```
 
 ## Output:
-Confusion Matrix:
- [[1]]
-
-Accuracy Score: 1.0
-
-Classification Report:
-               precision    recall  f1-score   support
-
-           0       1.00      1.00      1.00         1
-
-    accuracy                           1.00         1
-   macro avg       1.00      1.00      1.00         1
-weighted avg       1.00      1.00      1.00         1
-
-Prediction: Ham
-/usr/local/lib/python3.12/dist-packages/sklearn/metrics/_classification.py:407: UserWarning: A single label was found in 'y_true' and 'y_pred'. For the confusion matrix to have the correct shape, use the 'labels' parameter to pass all known labels.
-  warnings.warn(
+<img width="488" height="292" alt="image" src="https://github.com/user-attachments/assets/01a2c895-0d9f-4082-b485-2b6470a28486" />
+<img width="1819" height="48" alt="image" src="https://github.com/user-attachments/assets/d0a56c56-f242-45cb-b559-724e5dece6bf" />
 
 
 ## Result:
